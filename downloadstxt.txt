@@ -1,0 +1,15 @@
+C:\Users\Usuario\Downloads>doskey /history
+dir
+cd documents
+dir
+cd..
+dir
+cd downloads
+dir
+ rename yurena.jpg yurena2.jpg
+dir
+del yurena2..jpg
+del yurena2.jpg
+doskey /history
+
+C:\Users\Usuario\Downloads>
